@@ -1,7 +1,7 @@
 # Pega Whatsapp Tracker
 
 <p align="center">
-  <img src="bann.jpg" alt="Pegasus Icon" width="200" height="200">
+  <img src="bann.jpg" alt="Pegasus Icon" width="600" height="300">
 </p>
 
 
